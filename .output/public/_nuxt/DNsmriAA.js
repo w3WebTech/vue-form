@@ -1,0 +1,1 @@
+import{_ as a,h as o,aR as t,o as s}from"./B0PQ7Bwp.js";const r={},n={class:"layout-wrapper layout-blank"};function c(e,l){return s(),o("div",n,[t(e.$slots,"default")])}const d=a(r,[["render",c]]);export{d as default};
