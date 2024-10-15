@@ -1,1 +1,0 @@
-import{q as a,s as o,y as n,A as i,H as m,a as c}from"./B0PQ7Bwp.js";const r=a({start:Boolean,end:Boolean,...o(),...n()},"VListItemAction"),V=i()({name:"VListItemAction",props:r(),setup(t,e){let{slots:s}=e;return m(()=>c(t.tag,{class:["v-list-item-action",{"v-list-item-action--start":t.start,"v-list-item-action--end":t.end},t.class],style:t.style},s)),{}}});export{V};
